@@ -6,9 +6,9 @@ Description: QR stamp is a new idea which can ehance the efficiency while distri
 
 Team members:
 We are Team 5, our group members are as follows:
-107034032 ´¿³Õ½å Remy  email: s410086@shsh.tw
-107034045 ªL¨°¾± Peter email: ztex010073218@gmail.com
-107034055 ­Ù¤l³Ç Billy email: nibilly118@gmail.com
+107034032 æ›¾åšè³¢ Remy  email: s410086@shsh.tw
+107034045 æ—è¾°å‹³ Peter email: ztex010073218@gmail.com
+107034055 å€ªå­å‚‘ Billy email: nibilly118@gmail.com
 
 Instructor: Dr. Hareesh, National Tsing Hua University
 
@@ -39,7 +39,7 @@ The project is organized in the following folders:
 4. Demonstration video
    In the video, it shows the homepage of ChuangHua post in the very beginning. Then, we demonstrate the service of printing your own customized stamps. 
    First, we show the visitor mode which you have to type in your personal information, because the form latter is the same as people who have an account, so I go back and demonstrate the logging in part.
-   (you click the ¶l¬FÄ_Ä_ you can go back to the homepage) for people who already registered, you can type in the receivers' information directly. Mail type & address is alos required. 
+   (you click the éƒµæ”¿å¯¶å¯¶ you can go back to the homepage) for people who already registered, you can type in the receivers' information directly. Mail type & address is alos required. 
    After selecting the package's size(if letter,you can ignore), you have to confirm all the information. Afterwards, you have to pay and then you can print out the stamps.
    Next is the mail tracking service, I still demonstrate the visitor mode first, then the account part. The payment is the same as the way we used in printing the stamps.
    A point is that for an user who has an account, he/she doesn't have to type in the information of the credict card everytime while purchasing. But he/she still has to check the verification code.
